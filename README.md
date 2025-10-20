@@ -1,6 +1,6 @@
 # Advanced HuggingFace Pipelines: NLP, Vision, and Beyond
 
-This notebook explores HuggingFace's `pipeline` API for machine learning tasks, including sentiment analysis, text generation, translation, summarization, image classification, and text-to-image generation. It’s designed for beginners and advanced users, with GPU acceleration for optimal performance.
+This notebook explores HuggingFace's `different_pipelines` API for machine learning tasks, including sentiment analysis, text generation, translation, summarization, image classification, and text-to-image generation. It’s designed for beginners and advanced users, with GPU acceleration for optimal performance.
 
 ## Objectives
 - Learn to use HuggingFace pipelines for diverse ML tasks.
@@ -8,7 +8,6 @@ This notebook explores HuggingFace's `pipeline` API for machine learning tasks, 
 - Visualize results with charts and images.
 
 ## Setup Instructions
-- **Local**: Install dependencies with `pip install -r requirements.txt`.
 - **Google Colab**: Use a T4 GPU (Runtime > Change runtime type > T4 GPU).
 - **HuggingFace Token**: Add `HF_TOKEN` to Colab secrets or environment variables [](https://huggingface.co/docs/hub/security-tokens).
 
